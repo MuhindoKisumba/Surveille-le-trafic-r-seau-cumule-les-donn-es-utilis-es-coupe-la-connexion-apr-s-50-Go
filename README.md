@@ -101,6 +101,6 @@ Ce projet est un script PowerShell permettant de surveiller la **consommation r�
 
 ---
 
-## 📄 Licence
+##  Licence
 
 Projet libre — modifiable et utilisable selon tes besoins.
